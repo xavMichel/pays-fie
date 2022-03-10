@@ -1,0 +1,772 @@
+[
+    {
+        "nomEn": "HAITI",
+        "nomFr": "HAITI",
+        "codeCio": "HAI"
+    },
+    {
+        "nomEn": "AFGHANISTAN",
+        "nomFr": "AFGHANISTAN",
+        "codeCio": "AFG"
+    },
+    {
+        "nomEn": "SOUTH AFRICA",
+        "nomFr": "AFRIQUE DU SUD",
+        "codeCio": "RSA"
+    },
+    {
+        "nomEn": "ALGERIA",
+        "nomFr": "ALGERIE",
+        "codeCio": "ALG"
+    },
+    {
+        "nomEn": "GERMANY",
+        "nomFr": "ALLEMAGNE",
+        "codeCio": "GER"
+    },
+    {
+        "nomEn": "ANGOLA",
+        "nomFr": "ANGOLA",
+        "codeCio": "ANG"
+    },
+    {
+        "nomEn": "ANTIGUA AND BARBUDA",
+        "nomFr": "ANTIGUA-ET-BARBUDA",
+        "codeCio": "ANT"
+    },
+    {
+        "nomEn": "SAUDI ARABIA",
+        "nomFr": "ARABIE SAOUDITE",
+        "codeCio": "KSA"
+    },
+    {
+        "nomEn": "ARGENTINA",
+        "nomFr": "ARGENTINE",
+        "codeCio": "ARG"
+    },
+    {
+        "nomEn": "ARMENIA",
+        "nomFr": "ARMENIE",
+        "codeCio": "ARM"
+    },
+    {
+        "nomEn": "ARUBA",
+        "nomFr": "ARUBA",
+        "codeCio": "ARU"
+    },
+    {
+        "nomEn": "AUSTRALIA",
+        "nomFr": "AUSTRALIE",
+        "codeCio": "AUS"
+    },
+    {
+        "nomEn": "AUSTRIA",
+        "nomFr": "AUTRICHE",
+        "codeCio": "AUT"
+    },
+    {
+        "nomEn": "AZERBAIJAN",
+        "nomFr": "AZERBAIDJAN",
+        "codeCio": "AZE"
+    },
+    {
+        "nomEn": "BAHAMAS",
+        "nomFr": "BAHAMAS",
+        "codeCio": "BAH"
+    },
+    {
+        "nomEn": "BAHRAIN",
+        "nomFr": "BAHREIN",
+        "codeCio": "BRN"
+    },
+    {
+        "nomEn": "BANGLADESH",
+        "nomFr": "BANGLADESH",
+        "codeCio": "BAN"
+    },
+    {
+        "nomEn": "BARBADOS",
+        "nomFr": "BARBADE",
+        "codeCio": "BAR"
+    },
+    {
+        "nomEn": "BELARUS",
+        "nomFr": "BIELORUSSIE",
+        "codeCio": "BLR"
+    },
+    {
+        "nomEn": "BELGIUM",
+        "nomFr": "BELGIQUE",
+        "codeCio": "BEL"
+    },
+    {
+        "nomEn": "BELIZE",
+        "nomFr": "BELIZE",
+        "codeCio": "BIZ"
+    },
+    {
+        "nomEn": "BENIN",
+        "nomFr": "BENIN",
+        "codeCio": "BEN"
+    },
+    {
+        "nomEn": "BERMUDA",
+        "nomFr": "BERMUDES",
+        "codeCio": "BER"
+    },
+    {
+        "nomEn": "BOLIVIA",
+        "nomFr": "BOLIVIE",
+        "codeCio": "BOL"
+    },
+    {
+        "nomEn": "BOTSWANA",
+        "nomFr": "BOTSWANA",
+        "codeCio": "BOT"
+    },
+    {
+        "nomEn": "BRAZIL",
+        "nomFr": "BRESIL",
+        "codeCio": "BRA"
+    },
+    {
+        "nomEn": "BRUNEI DARUSSALAM",
+        "nomFr": "BRUNEI DARUSSALAM",
+        "codeCio": "BRU"
+    },
+    {
+        "nomEn": "BULGARIA",
+        "nomFr": "BULGARIE",
+        "codeCio": "BUL"
+    },
+    {
+        "nomEn": "BURKINA FASO",
+        "nomFr": "BURKINA FASO",
+        "codeCio": "BUR"
+    },
+    {
+        "nomEn": "CAMBODIA",
+        "nomFr": "CAMBODGE",
+        "codeCio": "CAM"
+    },
+    {
+        "nomEn": "CAMEROON",
+        "nomFr": "CAMEROUN",
+        "codeCio": "CMR"
+    },
+    {
+        "nomEn": "CANADA",
+        "nomFr": "CANADA",
+        "codeCio": "CAN"
+    },
+    {
+        "nomEn": "CAPE VERDE ",
+        "nomFr": "CAP-VERT",
+        "codeCio": "CPV"
+    },
+    {
+        "nomEn": "CHILE",
+        "nomFr": "CHILI",
+        "codeCio": "CHI"
+    },
+    {
+        "nomEn": "CHINA",
+        "nomFr": "CHINE",
+        "codeCio": "CHN"
+    },
+    {
+        "nomEn": "CHINESE TAIPEI",
+        "nomFr": "CHINE TAIPEI",
+        "codeCio": "TPE"
+    },
+    {
+        "nomEn": "CYPRUS",
+        "nomFr": "CHYPRE",
+        "codeCio": "CYP"
+    },
+    {
+        "nomEn": "COLOMBIA",
+        "nomFr": "COLOMBIE",
+        "codeCio": "COL"
+    },
+    {
+        "nomEn": "CONGO",
+        "nomFr": "CONGO",
+        "codeCio": "CGO"
+    },
+    {
+        "nomEn": "KOREA",
+        "nomFr": "COREE",
+        "codeCio": "KOR"
+    },
+    {
+        "nomEn": "NORTH KOREA",
+        "nomFr": "COREE DU NORD",
+        "codeCio": "PRK"
+    },
+    {
+        "nomEn": "COSTA RICA",
+        "nomFr": "COSTA RICA",
+        "codeCio": "CRC"
+    },
+    {
+        "nomEn": "IVORY COAST",
+        "nomFr": "COTE D'IVOIRE",
+        "codeCio": "CIV"
+    },
+    {
+        "nomEn": "CROATIA",
+        "nomFr": "CROATIE",
+        "codeCio": "CRO"
+    },
+    {
+        "nomEn": "CUBA",
+        "nomFr": "CUBA",
+        "codeCio": "CUB"
+    },
+    {
+        "nomEn": "DENMARK",
+        "nomFr": "DANEMARK",
+        "codeCio": "DEN"
+    },
+    {
+        "nomEn": "DEMOCRATIC REPUBLIC OF CONGO",
+        "nomFr": "REPUBLIQUE DEMOCRATIQUE DU CONGO",
+        "codeCio": "COD"
+    },
+    {
+        "nomEn": "DOMINICA",
+        "nomFr": "DOMINIQUE",
+        "codeCio": "DMA"
+    },
+    {
+        "nomEn": "EGYPT",
+        "nomFr": "EGYPTE",
+        "codeCio": "EGY"
+    },
+    {
+        "nomEn": "EL SALVADOR",
+        "nomFr": "SALVADOR",
+        "codeCio": "ESA"
+    },
+    {
+        "nomEn": "UNITED ARAB EMIRATES",
+        "nomFr": "EMIRATS ARABES UNIS",
+        "codeCio": "UAE"
+    },
+    {
+        "nomEn": "ECUADOR",
+        "nomFr": "EQUATEUR",
+        "codeCio": "ECU"
+    },
+    {
+        "nomEn": "SPAIN",
+        "nomFr": "ESPAGNE",
+        "codeCio": "ESP"
+    },
+    {
+        "nomEn": "ESTONIA",
+        "nomFr": "ESTONIE",
+        "codeCio": "EST"
+    },
+    {
+        "nomEn": "FINLAND",
+        "nomFr": "FINLANDE",
+        "codeCio": "FIN"
+    },
+    {
+        "nomEn": "FRANCE",
+        "nomFr": "FRANCE",
+        "codeCio": "FRA"
+    },
+    {
+        "nomEn": "GEORGIA",
+        "nomFr": "GEORGIE",
+        "codeCio": "GEO"
+    },
+    {
+        "nomEn": "GHANA",
+        "nomFr": "GHANA",
+        "codeCio": "GHA"
+    },
+    {
+        "nomEn": "GREAT BRITAIN",
+        "nomFr": "GRANDE-BRETAGNE",
+        "codeCio": "GBR"
+    },
+    {
+        "nomEn": "GREECE",
+        "nomFr": "GRECE",
+        "codeCio": "GRE"
+    },
+    {
+        "nomEn": "GUAM",
+        "nomFr": "GUAM",
+        "codeCio": "GUM"
+    },
+    {
+        "nomEn": "GUATEMALA",
+        "nomFr": "GUATEMALA",
+        "codeCio": "GUA"
+    },
+    {
+        "nomEn": "GUINEA",
+        "nomFr": "GUINEE",
+        "codeCio": "GUI"
+    },
+    {
+        "nomEn": "GUYANA",
+        "nomFr": "GUYANA",
+        "codeCio": "GUY"
+    },
+    {
+        "nomEn": "HONDURAS",
+        "nomFr": "HONDURAS",
+        "codeCio": "HON"
+    },
+    {
+        "nomEn": "HONG KONG, CHINA",
+        "nomFr": "HONG KONG, CHINE",
+        "codeCio": "HKG"
+    },
+    {
+        "nomEn": "HUNGARY",
+        "nomFr": "HONGRIE",
+        "codeCio": "HUN"
+    },
+    {
+        "nomEn": "ICELAND",
+        "nomFr": "ISLANDE",
+        "codeCio": "ISL"
+    },
+    {
+        "nomEn": "VIRGIN ISLANDS",
+        "nomFr": "ILES VIERGES",
+        "codeCio": "ISV"
+    },
+    {
+        "nomEn": "INDIA",
+        "nomFr": "INDE",
+        "codeCio": "IND"
+    },
+    {
+        "nomEn": "INDONESIA",
+        "nomFr": "INDONESIE",
+        "codeCio": "INA"
+    },
+    {
+        "nomEn": "IRAQ",
+        "nomFr": "IRAK",
+        "codeCio": "IRQ"
+    },
+    {
+        "nomEn": "IRAN",
+        "nomFr": "IRAN",
+        "codeCio": "IRI"
+    },
+    {
+        "nomEn": "IRELAND",
+        "nomFr": "IRLANDE",
+        "codeCio": "IRL"
+    },
+    {
+        "nomEn": "ISRAEL",
+        "nomFr": "ISRAEL",
+        "codeCio": "ISR"
+    },
+    {
+        "nomEn": "ITALY",
+        "nomFr": "ITALIE",
+        "codeCio": "ITA"
+    },
+    {
+        "nomEn": "JAMAICA",
+        "nomFr": "JAMAIQUE",
+        "codeCio": "JAM"
+    },
+    {
+        "nomEn": "JAPAN",
+        "nomFr": "JAPON",
+        "codeCio": "JPN"
+    },
+    {
+        "nomEn": "JORDAN",
+        "nomFr": "JORDANIE",
+        "codeCio": "JOR"
+    },
+    {
+        "nomEn": "KAZAKHSTAN",
+        "nomFr": "KAZAKHSTAN",
+        "codeCio": "KAZ"
+    },
+    {
+        "nomEn": "KENYA",
+        "nomFr": "KENYA",
+        "codeCio": "KEN"
+    },
+    {
+        "nomEn": "KYRGYZSTAN",
+        "nomFr": "KIRGHIZISTAN",
+        "codeCio": "KGZ"
+    },
+    {
+        "nomEn": "KUWAIT",
+        "nomFr": "KOWEIT",
+        "codeCio": "KUW"
+    },
+    {
+        "nomEn": "LATVIA",
+        "nomFr": "LETTONIE",
+        "codeCio": "LAT"
+    },
+    {
+        "nomEn": "LEBANON",
+        "nomFr": "LIBAN",
+        "codeCio": "LBN"
+    },
+    {
+        "nomEn": "LIBYA",
+        "nomFr": "LIBYE",
+        "codeCio": "LBA"
+    },
+    {
+        "nomEn": "LITHUANIA",
+        "nomFr": "LITHUANIE",
+        "codeCio": "LTU"
+    },
+    {
+        "nomEn": "LUXEMBOURG",
+        "nomFr": "LUXEMBOURG",
+        "codeCio": "LUX"
+    },
+    {
+        "nomEn": "MACAO, CHINA",
+        "nomFr": "MACAO, CHINE",
+        "codeCio": "MAC"
+    },
+    {
+        "nomEn": "NORTH MACEDONIA",
+        "nomFr": "MACÉDONIE DU NORD",
+        "codeCio": "MKD"
+    },
+    {
+        "nomEn": "MADAGASCAR",
+        "nomFr": "MADAGASCAR",
+        "codeCio": "MAD"
+    },
+    {
+        "nomEn": "MALAYSIA",
+        "nomFr": "MALAISIE",
+        "codeCio": "MAS"
+    },
+    {
+        "nomEn": "MALI",
+        "nomFr": "MALI",
+        "codeCio": "MLI"
+    },
+    {
+        "nomEn": "MALTA",
+        "nomFr": "MALTE",
+        "codeCio": "MLT"
+    },
+    {
+        "nomEn": "MOROCCO",
+        "nomFr": "MAROC",
+        "codeCio": "MAR"
+    },
+    {
+        "nomEn": "MAURITIUS",
+        "nomFr": "MAURICE",
+        "codeCio": "MRI"
+    },
+    {
+        "nomEn": "MAURITANIA",
+        "nomFr": "MAURITANIE",
+        "codeCio": "MTN"
+    },
+    {
+        "nomEn": "MEXICO",
+        "nomFr": "MEXIQUE",
+        "codeCio": "MEX"
+    },
+    {
+        "nomEn": "MOLDOVA",
+        "nomFr": "MOLDAVIE",
+        "codeCio": "MDA"
+    },
+    {
+        "nomEn": "MONACO",
+        "nomFr": "MONACO",
+        "codeCio": "MON"
+    },
+    {
+        "nomEn": "MONGOLIA",
+        "nomFr": "MONGOLIE",
+        "codeCio": "MGL"
+    },
+    {
+        "nomEn": "MYANMAR",
+        "nomFr": "MYANMAR",
+        "codeCio": "MYA"
+    },
+    {
+        "nomEn": "NAMIBIA",
+        "nomFr": "NAMIBIE",
+        "codeCio": "NAM"
+    },
+    {
+        "nomEn": "NEPAL",
+        "nomFr": "NEPAL",
+        "codeCio": "NEP"
+    },
+    {
+        "nomEn": "NICARAGUA",
+        "nomFr": "NICARAGUA",
+        "codeCio": "NCA"
+    },
+    {
+        "nomEn": "NIGER",
+        "nomFr": "NIGER",
+        "codeCio": "NIG"
+    },
+    {
+        "nomEn": "NIGERIA",
+        "nomFr": "NIGERIA",
+        "codeCio": "NGR"
+    },
+    {
+        "nomEn": "NORWAY",
+        "nomFr": "NORVEGE",
+        "codeCio": "NOR"
+    },
+    {
+        "nomEn": "NEW ZEALAND",
+        "nomFr": "NOUVELLE-ZELANDE",
+        "codeCio": "NZL"
+    },
+    {
+        "nomEn": "OMAN",
+        "nomFr": "OMAN",
+        "codeCio": "OMA"
+    },
+    {
+        "nomEn": "UZBEKISTAN",
+        "nomFr": "OUZBEKISTAN",
+        "codeCio": "UZB"
+    },
+    {
+        "nomEn": "PAKISTAN",
+        "nomFr": "PAKISTAN",
+        "codeCio": "PAK"
+    },
+    {
+        "nomEn": "PALESTINE",
+        "nomFr": "PALESTINE",
+        "codeCio": "PLE"
+    },
+    {
+        "nomEn": "PANAMA",
+        "nomFr": "PANAMA",
+        "codeCio": "PAN"
+    },
+    {
+        "nomEn": "PAPUA NEW GUINEA",
+        "nomFr": "PAPOUASIE NOUVELLE GUINEE",
+        "codeCio": "PNG"
+    },
+    {
+        "nomEn": "PARAGUAY",
+        "nomFr": "PARAGUAY",
+        "codeCio": "PAR"
+    },
+    {
+        "nomEn": "NETHERLANDS",
+        "nomFr": "PAYS-BAS",
+        "codeCio": "NED"
+    },
+    {
+        "nomEn": "PERU",
+        "nomFr": "PEROU",
+        "codeCio": "PER"
+    },
+    {
+        "nomEn": "PHILIPPINES",
+        "nomFr": "PHILIPPINES",
+        "codeCio": "PHI"
+    },
+    {
+        "nomEn": "POLAND",
+        "nomFr": "POLOGNE",
+        "codeCio": "POL"
+    },
+    {
+        "nomEn": "PUERTO RICO",
+        "nomFr": "PORTO RICO",
+        "codeCio": "PUR"
+    },
+    {
+        "nomEn": "PORTUGAL",
+        "nomFr": "PORTUGAL",
+        "codeCio": "POR"
+    },
+    {
+        "nomEn": "QATAR",
+        "nomFr": "QATAR",
+        "codeCio": "QAT"
+    },
+    {
+        "nomEn": "SYRIAN ARAB REPUBLIC",
+        "nomFr": "REPUBLIQUE ARABE SYRIENNE",
+        "codeCio": "SYR"
+    },
+    {
+        "nomEn": "DOMINICAN REPUBLIC",
+        "nomFr": "REPUBLIQUE DOMINICAINE",
+        "codeCio": "DOM"
+    },
+    {
+        "nomEn": "CZECH REPUBLIC",
+        "nomFr": "REPUBLIQUE TCHEQUE",
+        "codeCio": "CZE"
+    },
+    {
+        "nomEn": "ROMANIA",
+        "nomFr": "ROUMANIE",
+        "codeCio": "ROU"
+    },
+    {
+        "nomEn": "RUSSIA",
+        "nomFr": "RUSSIE",
+        "codeCio": "RUS"
+    },
+    {
+        "nomEn": "RWANDA",
+        "nomFr": "RWANDA",
+        "codeCio": "RWA"
+    },
+    {
+        "nomEn": "SAN MARINO",
+        "nomFr": "SAINT-MARIN",
+        "codeCio": "SMR"
+    },
+    {
+        "nomEn": "SAMOA",
+        "nomFr": "SAMOA",
+        "codeCio": "SAM"
+    },
+    {
+        "nomEn": "AMERICAN SAMOA",
+        "nomFr": "SAMOA  AMÉRICAINE",
+        "codeCio": "ASA"
+    },
+    {
+        "nomEn": "SENEGAL",
+        "nomFr": "SENEGAL",
+        "codeCio": "SEN"
+    },
+    {
+        "nomEn": "SERBIA",
+        "nomFr": "SERBIE",
+        "codeCio": "SRB"
+    },
+    {
+        "nomEn": "SIERRA LEONE",
+        "nomFr": "SIERRA LEONE",
+        "codeCio": "SLE"
+    },
+    {
+        "nomEn": "SINGAPORE",
+        "nomFr": "SINGAPOUR",
+        "codeCio": "SGP"
+    },
+    {
+        "nomEn": "SLOVAKIA",
+        "nomFr": "SLOVAQUIE",
+        "codeCio": "SVK"
+    },
+    {
+        "nomEn": "SLOVENIA",
+        "nomFr": "SLOVENIE",
+        "codeCio": "SLO"
+    },
+    {
+        "nomEn": "SRI LANKA",
+        "nomFr": "SRI LANKA",
+        "codeCio": "SRI"
+    },
+    {
+        "nomEn": "SWEDEN",
+        "nomFr": "SUEDE",
+        "codeCio": "SWE"
+    },
+    {
+        "nomEn": "SWITZERLAND",
+        "nomFr": "SUISSE",
+        "codeCio": "SUI"
+    },
+    {
+        "nomEn": "TAJIKISTAN",
+        "nomFr": "TADJIKISTAN",
+        "codeCio": "TJK"
+    },
+    {
+        "nomEn": "THAILAND",
+        "nomFr": "THAILANDE",
+        "codeCio": "THA"
+    },
+    {
+        "nomEn": "TOGO",
+        "nomFr": "TOGO",
+        "codeCio": "TOG"
+    },
+    {
+        "nomEn": "TUNISIA",
+        "nomFr": "TUNISIE",
+        "codeCio": "TUN"
+    },
+    {
+        "nomEn": "TURKMENISTAN",
+        "nomFr": "TURKMENISTAN",
+        "codeCio": "TKM"
+    },
+    {
+        "nomEn": "TURKEY",
+        "nomFr": "TURQUIE",
+        "codeCio": "TUR"
+    },
+    {
+        "nomEn": "USA",
+        "nomFr": "U.S.A.",
+        "codeCio": "USA"
+    },
+    {
+        "nomEn": "UGANDA",
+        "nomFr": "OUGANDA",
+        "codeCio": "UGA"
+    },
+    {
+        "nomEn": "UKRAINE",
+        "nomFr": "UKRAINE",
+        "codeCio": "UKR"
+    },
+    {
+        "nomEn":"URUGUAY",
+        "nomFr": "URUGUAY",
+        "codeCio": "URU"
+    },
+    {
+        "nomEn": "VENEZUELA",
+        "nomFr": "VENEZUELA",
+        "codeCio": "VEN"
+    },
+    {
+        "nomEn": "VIETNAM",
+        "nomFr": "VIETNAM",
+        "codeCio": "VIE"
+    },
+    {
+        "nomEn": "YEMEN",
+        "nomFr": "YEMEN",
+        "codeCio": "YEM"
+    }
+]
